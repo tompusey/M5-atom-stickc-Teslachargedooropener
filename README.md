@@ -2,5 +2,14 @@
 attempting to get tesla charge door opening using 433mhz transmitter and M5stack stuff (got some of it working, arduino files to come once I've tidied them up and annotated them)
 
 Started out when i realised the inputs on the back of the atom could line up nicely with the transmitter I had.
-![IMG_20220920_113933566](https://user-images.githubusercontent.com/88928988/192343776-4840ab6e-0ebf-4aaa-83cc-0cd43a0ee419.jpg)
-![IMG_20220920_131654362](https://user-images.githubusercontent.com/88928988/192343779-b78de29c-a6e4-454a-9d95-4f51b55cd851.jpg)
+The transmitter
+![IMG_20220927_134416647](https://user-images.githubusercontent.com/88928988/192731343-9c355d21-7b8d-4130-a7cb-22bbdbe51981.jpg)
+Plugs straight into the atom
+![IMG_20220927_134546550](https://user-images.githubusercontent.com/88928988/192731429-bce11f8b-3b11-4705-bca0-d725987127c8.jpg)
+and the atomU
+![IMG_20220927_134447330](https://user-images.githubusercontent.com/88928988/192731621-9d4179ac-8ea3-43d2-91f7-0faa6b1796e2.jpg)
+and the stickC
+![IMG_20220927_134355590](https://user-images.githubusercontent.com/88928988/192731644-dfd7cf3f-196b-40b9-846b-5d3125de94af.jpg)
+and all of the above can run off recycled vape pen batteries so long as you are super carefull about re charging them. Do this at your own risk...
+![IMG_20220927_134803051](https://user-images.githubusercontent.com/88928988/192731717-beb46504-196f-4fad-b256-0dab8aa137ce.jpg)
+![IMG_20220920_162033393](https://user-images.githubusercontent.com/88928988/192731739-bcd096c3-8dc3-4f3c-96d2-f54ce06f1aec.jpg)
