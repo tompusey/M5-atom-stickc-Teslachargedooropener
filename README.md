@@ -1,5 +1,5 @@
 # M5-atom-stickc-Teslachargedooropener
-attempting to get tesla charge door opening using 433mhz transmitter and M5stack stuff (got some of it working, arduino files to come once I've tidied them up and annotated them)
+attempting to get tesla charge door opening using 433mhz transmitter and M5stack stuff. Arduino files for atom (works with lite and atomU) and M5stick in release
 
 Started out when i realised the inputs on the back of the atom could line up nicely with the transmitter I had.
 The transmitter
